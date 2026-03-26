@@ -1,10 +1,11 @@
-const CACHE_NAME = 'foundation-archive-v1';
+const CACHE_NAME = 'foundation-archive-v2';
 const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
   '/1000013824.png',
-  '/1000013825.png'
+  '/1000013825.png',
+  '/icona.png'
 ];
 
 self.addEventListener('install', event => {
