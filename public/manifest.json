@@ -8,12 +8,12 @@
   "description": "Database ufficiale della Body Foundation.",
   "icons": [
     {
-      "src": "/1000013824.png",
+      "src": "/icona.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/1000013824.png",
+      "src": "/icona.png",
       "sizes": "512x512",
       "type": "image/png"
     }
